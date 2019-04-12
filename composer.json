@@ -1,0 +1,17 @@
+{
+    "name": "preflrv/npusher",
+    "description": "Lib para envio de push Api-Firebase",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Avila Malheiros",
+            "email": "edu.avila2@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NPusher\\": "src"
+        }
+    }
+}
