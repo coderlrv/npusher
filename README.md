@@ -7,7 +7,9 @@
 
 ## Instalação
 
-
+~~~
+composer require preflrv/npusher
+~~~
 
 ## Como utilizar
 
